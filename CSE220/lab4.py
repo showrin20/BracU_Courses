@@ -70,7 +70,7 @@ class DoublyList:
     temp = self.head
     count = 0
     while temp is not None:
-      if temp.element is not elem:
+      if temp.element is not  elem:
         temp = temp.next
         count += 1
       else:
