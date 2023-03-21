@@ -180,7 +180,7 @@ def result(source):
    
 
 
-  return arr
+  return arr 
 source=[10, 8, 13, 9, 14, 25, -5, 20, 7, 7, 4]
 print(result(source))
 
