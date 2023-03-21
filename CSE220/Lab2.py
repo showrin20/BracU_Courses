@@ -18,7 +18,7 @@ else:
         if arr[1][j]>="A" and arr[1][j]<="Z":
           bidx=j
           bcap=b[j]
-      print(f"Top Board Start Character, {acap} and its index {aidx}")
+      print(f"Top Board Start Character, {acap} and  its index {aidx}")
       print(f"Bottom Board Start Character, {bcap} and its index {bidx}")
 
 def circular_left_shift(arr1,k):
