@@ -25,7 +25,7 @@ class Queue:
     if self.size==0:
       return "queue Underflow"
     else:
-      return self.rear
+      return self.queue[self.font]
 
 
 
