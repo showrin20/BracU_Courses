@@ -1,13 +1,22 @@
-Link to unlisted YouTube video:
+# Machine Learning and Simulation-Based Framework for Disaster Preparedness Prediction
 
-Public link to the slide:
-https://docs.google.com/presentation/d/1tIIVzDzva929oBP0nKRedHehl6rYHDuT/edit#slide=id.p1
-Paper title:Machine Learning and Simulation-Based Framework for Disaster Preparedness Prediction
+This repository contains the code and resources related to the paper titled "Machine Learning and Simulation-Based Framework for Disaster Preparedness Prediction" 
 
-Link to the paper:
-https://ieeexplore.ieee.org/document/9715322
-Group Number:
-7
+## Presentation Slides
 
-Individual Submitter:
-21301033 Showrin Rahman
+The public link to the presentation slides can be accessed [here](https://docs.google.com/presentation/d/1tIIVzDzva929oBP0nKRedHehl6rYHDuT/edit#slide=id.p1).
+## YouTube Video
+
+Watch our presentation on YouTube: [Presentation Video](INSERT_YOUTUBE_VIDEO_LINK_HERE)
+## Paper Link
+
+The paper associated with this work is available on IEEE Xplore: [Machine Learning and Simulation-Based Framework for Disaster Preparedness Prediction](https://ieeexplore.ieee.org/document/9715322).
+
+## Group Number
+
+Group Number: 7
+
+## Individual Submitter
+
+**Name:** Showrin Rahman  
+**Student ID:** 21301033
