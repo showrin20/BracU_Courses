@@ -1,6 +1,6 @@
 # Machine Learning and Simulation-Based Framework for Disaster Preparedness Prediction
 
-This repository contains the code and resources related to the paper titled "Machine Learning and Simulation-Based Framework for Disaster Preparedness Prediction" 
+This repository contains the Presentation Slides and a report related to the paper titled "Machine Learning and Simulation-Based Framework for Disaster Preparedness Prediction" 
 
 ## Presentation Slides
 
