@@ -5,6 +5,9 @@ This repository contains the Presentation Slides and a report related to the pap
 ## Presentation Slides
 
 The public link to the presentation slides can be accessed [here](https://docs.google.com/presentation/d/1tIIVzDzva929oBP0nKRedHehl6rYHDuT/edit#slide=id.p1).
+## Report
+
+The public link to the report can be accessed [here](https://docs.google.com/document/d/1QD4vyzF0ci6KglniJdBj6--_Shn0276NgZhC0iIa8N4/edit?usp=sharing).
 ## YouTube Video
 
 Watch our presentation on YouTube: [Presentation Video](INSERT_YOUTUBE_VIDEO_LINK_HERE)
