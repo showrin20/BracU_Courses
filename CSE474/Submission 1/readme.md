@@ -10,7 +10,7 @@ The public link to the presentation slides can be accessed [here](https://docs.g
 The public link to the report can be accessed [here](https://docs.google.com/document/d/1QD4vyzF0ci6KglniJdBj6--_Shn0276NgZhC0iIa8N4/edit?usp=sharing).
 ## YouTube Video
 
-Watch our presentation on YouTube: [Presentation Video](INSERT_YOUTUBE_VIDEO_LINK_HERE)
+Watch our presentation on YouTube: [Presentation Video](https://www.youtube.com/watch?v=J7_dFkpZOyY)
 ## Paper Link
 
 The paper associated with this work is available on IEEE Xplore: [Machine Learning and Simulation-Based Framework for Disaster Preparedness Prediction](https://ieeexplore.ieee.org/document/9715322).
