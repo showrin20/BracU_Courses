@@ -1,4 +1,4 @@
-# Machine Learning and Simulation-Based Framework for Disaster Preparedness Prediction
+## DEVELOPING AN AGENT-BASED SIMULATION MODEL OF THE USE OF DIFFERENT COMMUNICATION TECHNOLOGIES IN INTER-ORGANIZATIONAL DISASTER RESPONSE COORDINATION
 
 This repository contains the Presentation Slides and a report related to the paper titled "DEVELOPING AN AGENT-BASED SIMULATION MODEL OF THE USE OF DIFFERENT
 COMMUNICATION TECHNOLOGIES IN INTER-ORGANIZATIONAL DISASTER
@@ -16,7 +16,9 @@ The public link to the report can be accessed [here](https://docs.google.com/doc
 Watch our presentation on YouTube: [Presentation Video](https://www.youtube.com)
 ## Paper Link
 
-The paper associated with this work is available on IEEE Xplore: [Machine Learning and Simulation-Based Framework for Disaster Preparedness Prediction](https://ieeexplore.ieee.org/document/8632257).
+The paper associated with this work is available on IEEE Xplore: [DEVELOPING AN AGENT-BASED SIMULATION MODEL OF THE USE OF DIFFERENT
+COMMUNICATION TECHNOLOGIES IN INTER-ORGANIZATIONAL DISASTER
+RESPONSE COORDINATION](https://ieeexplore.ieee.org/document/8632257).
 
 ## Group Number
 
