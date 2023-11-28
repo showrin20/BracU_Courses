@@ -17,7 +17,7 @@ See our: [ Literature Review](https://docs.google.com/spreadsheets/d/1CKo4qRVq8C
 
 Group Number: 7
 
-21301033	Showrin Rahman
-21101221	Md. Tanvir Jawad
-19101155	Tamanna Sultana Tonu
+21301033	Showrin Rahman <br>
+21101221	Md. Tanvir Jawad <br>
+19101155	Tamanna Sultana Tonu <br>
 19101391	Humaira Rahman Oishi 
