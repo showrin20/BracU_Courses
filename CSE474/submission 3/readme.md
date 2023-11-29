@@ -3,7 +3,7 @@
 
 ## Presentation Slides
 
-The public link to the presentation slides can be accessed [here]().
+The public link to the presentation slides can be accessed [here](https://docs.google.com/presentation/d/1uddzBafAkJKbRgtazwCw0iXU3Ir2Q1AvkLj9yUgIhrc/edit?fbclid=IwAR1bFZnqsVLEaqg6_2lA1ZpEgWJNchkXMMi3l9DofPWrZQUaIRRDZ-pHF2s#slide=id.g26278359bfc_0_9).
 
 ## YouTube Video
 
