@@ -13,7 +13,7 @@ The public link to the presentation slides can be accessed [here](https://docs.g
 The public link to the report can be accessed [here](https://docs.google.com/document/d/1mfqKYN9RwF29FENxoet6fgwttmwksMg0vOBazAkWIUc/edit?usp=sharing).
 ## YouTube Video
 
-Watch our presentation on YouTube: [Presentation Video](https://youtu.be/h6QAB2yXap8)]
+Watch our presentation on YouTube: [Presentation Video](https://youtu.be/h6QAB2yXap8)
 ## Paper Link
 
 The paper associated with this work is available on IEEE Xplore: [DEVELOPING AN AGENT-BASED SIMULATION MODEL OF THE USE OF DIFFERENT
