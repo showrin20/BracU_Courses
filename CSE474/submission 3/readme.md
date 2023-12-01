@@ -7,7 +7,7 @@ The public link to the presentation slides can be accessed [here](https://docs.g
 
 ## YouTube Video
 
-Watch our presentation on YouTube: [Presentation Video]()
+Watch our presentation on YouTube: [Presentation Video](https://youtu.be/giT5O2Ibvl4)
 ## Literature Review 
 
 See our: [ Literature Review](https://docs.google.com/spreadsheets/d/1CKo4qRVq8C53A7WHDSBos4oDjrqE_L4KjHcUKCOeaZU/edit#gid=396298435)
