@@ -1,4 +1,4 @@
-# Developing an Algorithmic Approach for Optimizing Cyclone Evacuation Processes using Agent-Based Simulation
+# An Algorithmic Approach for Optimizing Cyclone Evacuation Processes using Agent-Based Simulation
 
 
 ## Presentation Slides
