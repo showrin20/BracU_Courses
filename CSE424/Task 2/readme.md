@@ -5,7 +5,7 @@ This repository contains the Presentation Slides and a report related to the pap
 
 ## Report
 
-The public link to the report can be accessed [here](https://docs.google.com/document/d/1OOOBYT5ZDaWnVLjwh7F5bYc03xIbh_3x4ts5kVykoHM/edit?usp=sharing).
+The PDF report can be accessed [here](https://drive.google.com/file/d/1O0l11hGwUVFt9Dbw3NRJ84pxJAkZekZ2/view?usp=sharing).
 
 ## Paper Link
 
