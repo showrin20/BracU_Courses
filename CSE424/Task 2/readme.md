@@ -1,6 +1,6 @@
 # GeoAI for Disaster Mitigation: Fire Severity Prediction Models using Sentinel-2 and ANN Regression
 
-This repository contains the Presentation Slides and a report related to the paper titled "GeoAI for Disaster Mitigation: Fire Severity Prediction Models using Sentinel-2 and ANN Regression" 
+This repository concept  paper for the paper titled "GeoAI for Disaster Mitigation: Fire Severity Prediction Models using Sentinel-2 and ANN Regression" 
 
 
 ## Report
