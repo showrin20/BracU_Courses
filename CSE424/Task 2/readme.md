@@ -5,7 +5,7 @@ This repository concept  paper for the paper titled "GeoAI for Disaster Mitigati
 
 ## Report
 
-The PDF report can be accessed [here](https://drive.google.com/file/d/1O0l11hGwUVFt9Dbw3NRJ84pxJAkZekZ2/view?usp=sharing).
+The PDF report can be accessed [here](https://drive.google.com/file/d/1uNmTI_gi7mXkP0h61_8_VH0g68gQ5aEu/view?usp=sharing).
 
 ## Paper Link
 
