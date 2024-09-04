@@ -5,7 +5,7 @@ This repository concept  paper for the paper titled "Deep Learning and Machine L
 
 ## Report
 
-The PDF report can be accessed [here](https://drive.google.com/file/d/1gbhhLLqBn5S-41WimaTXceyGhRxn7M-7/view?usp=sharing).
+The PDF report can be accessed [here](https://drive.google.com/file/d/1BcEUZPkI1v23JT3kKDOiMsWeOCalbx3w/view?usp=sharing).
 
 ## Paper Link
 
