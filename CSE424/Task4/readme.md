@@ -6,7 +6,7 @@ The public link to the presentation slides can be accessed [here](https://docs.g
 ## YouTube Video
 
 Watch our presentation on YouTube: [Presentation Video](https://youtu.be/DiMBLm4ts1w)
-## [Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA is here](https://www.overleaf.com/8393345214svvvypbhrjnd#eaa364)
+## [Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA is here](https://www.overleaf.com/7829146288svyvnpqfvtqd#e8fc4d)
 
 
 
@@ -14,8 +14,8 @@ Watch our presentation on YouTube: [Presentation Video](https://youtu.be/DiMBLm4
 
 Group Number: 7
 
-24141153	Abrar Sami Khan	
-23241085	Omor Bin Amjad Chowdhury	
-21141058	Mohammad Omor Raihan	
-24141255	Showrin Rahman	
+24141153	Abrar Sami Khan	<br>
+23241085	Omor Bin Amjad Chowdhury	<br>
+21141058	Mohammad Omor Raihan	<br>
+24141255	Showrin Rahman	<br>
 24341284	Sowad Rahman 
