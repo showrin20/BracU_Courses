@@ -5,8 +5,8 @@ The public link to the presentation slides can be accessed [here](https://docs.g
 
 ## YouTube Video
 
-Watch our presentation on YouTube: [Presentation Video](https://youtu.be/DiMBLm4ts1w)
-## [Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA is here](https://www.overleaf.com/7829146288svyvnpqfvtqd#e8fc4d)
+Watch our presentation on YouTube: [Presentation Video]()
+## [Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA is here]()
 
 
 
