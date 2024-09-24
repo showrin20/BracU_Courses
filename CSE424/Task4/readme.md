@@ -12,9 +12,14 @@ Watch our presentation on YouTube: [Presentation Video](https://youtu.be/egIcjx9
 [Full project Code](https://github.com/showrin20/BracU_Courses/blob/main/CSE424/Task4/cse424_EUROSAT%2BEDA.ipynb)
 
 ## Task 4c2
-[Dataset before pre-processing](https://paperswithcode.com/dataset/eurosat)
+### EuroSAT before Pre-Processing 
+ [Dataset before pre-processing](https://paperswithcode.com/dataset/eurosat)
+[github](https://github.com/phelber/eurosat)
 
-[Dataset After pre-processing with EDA](https://github.com/showrin20/BracU_Courses/blob/main/CSE424/Task4/cse424_EUROSAT%2BEDA.ipynb)
+
+### EuroSAT After Pre-Processing 
+
+ [Pre-processing with EDA](https://github.com/showrin20/BracU_Courses/blob/main/CSE424/Task4/cse424_EUROSAT%2BEDA.ipynb)
 
 ## Task 4c3 
 [PDF Report of Mini-Project](https://drive.google.com/file/d/1vKI-5cUCjTG1MR4I0Zqf2XT_u-aO9Gf9/view?usp=sharing)
