@@ -13,7 +13,7 @@ Watch our presentation on YouTube: [Presentation Video](https://youtu.be/egIcjx9
 
 ## Task 4c2
 ### EuroSAT before Pre-Processing 
- [Dataset before pre-processing](https://paperswithcode.com/dataset/eurosat)
+ [Dataset before pre-processing](https://paperswithcode.com/dataset/eurosat) <br>
 [github](https://github.com/phelber/eurosat)
 
 
