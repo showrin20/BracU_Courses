@@ -4,7 +4,7 @@
 ### [github](https://github.com/phelber/eurosat)
 
 
-# EuroSAT before Pre-Processing 
+# EuroSAT After Pre-Processing 
 
 ### [Pre-processing with EDA](https://github.com/showrin20/BracU_Courses/blob/main/CSE424/Task4/cse424_EUROSAT%2BEDA.ipynb)
 
