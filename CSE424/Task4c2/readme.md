@@ -23,7 +23,7 @@
 4. **Correlation Between Channels**  
    Visualizing and analyzing correlation between RGB channels.
 
----
+
 
 ### **POST-EXPLORATORY ANALYSIS:**
 1. **Data Distribution in Classes**  
