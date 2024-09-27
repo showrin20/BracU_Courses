@@ -22,10 +22,10 @@ Watch our presentation on YouTube: [Presentation Video](https://youtu.be/egIcjx9
  [Pre-processing with EDA](https://github.com/showrin20/BracU_Courses/blob/main/CSE424/Task4/cse424_EUROSAT%2BEDA.ipynb)
 
 ## Task 4c3 
-[PDF Report of Mini-Project](https://drive.google.com/file/d/1vKI-5cUCjTG1MR4I0Zqf2XT_u-aO9Gf9/view?usp=sharing)
+[PDF Report of Mini-Project](https://drive.google.com/file/d/1LY-Q04O0rzbSBjnoYnnuPJeb2vdNlD39/view?usp=sharing)
 
 ## Task 4c4
-[Plagiarism Pdf]()
+[Plagiarism Pdf](https://drive.google.com/file/d/16zjiNm3jOoHJw7v84ux0zPtdnAAeAxmq/view?usp=sharing)
 
 
 ## Group Number
