@@ -1,5 +1,6 @@
-# CSE340
+# CSE340:Computer Architecture
 
+## Instructions: Language of the Computer
 
 ### Assembly Language 
 
