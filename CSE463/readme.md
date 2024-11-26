@@ -33,3 +33,4 @@ projects.
 | **Output Quality**        | Produces creative and diverse outputs, though not always realistic. | Excels at generating realistic and high-quality outputs, especially in images. |
 | **Examples**              | ChatGPT, Stable Diffusion, MusicLM.                          | StyleGAN, DeepFake technologies, Pix2Pix.                  |
 
+![diff](diff.png)
