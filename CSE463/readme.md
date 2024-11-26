@@ -1,4 +1,4 @@
-# CSE463
+# CSE463 : Computer Vision
 
 This course provides an introduction to computer vision including fundamentals of image
 formation, camera imaging geometry, feature detection and matching, stereo, motion estimation
@@ -12,7 +12,8 @@ projects.
 ## [Resources](https://drive.google.com/drive/folders/1q8VXDRMllyv_mftctnOzwQD3028Uz0AZ)
 
 
-## [Lab 1](https://drive.google.com/drive/folders/12ciHrB6xHeOugQWVFJYF8ueht8ppcli0)
+## [Lab 1 : Introduction_to_Computer_Vision](https://drive.google.com/drive/folders/12ciHrB6xHeOugQWVFJYF8ueht8ppcli0)
+[Notes](https://colab.research.google.com/drive/1mfi_-JZPQBZssFJG_oOz7HL6W0Sr4uFh)
 
 ## [Lab2 : Convolution and hybrid images](https://drive.google.com/drive/folders/1NN3HHAIjzERHAs6-gdHe2veWfNsrwJ6K?usp=drive_link)
 
