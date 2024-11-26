@@ -21,6 +21,22 @@ projects.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ # Project Notes
+
 | **Feature**              | **Generative AI (GenAI)**                                     | **Generative Adversarial Networks (GAN)**                   |
 |--------------------------|-------------------------------------------------------------|------------------------------------------------------------|
 | **Definition**            | Broad AI field for generating content in various formats.    | A specific type of model designed for adversarial training to generate realistic data. |
