@@ -14,7 +14,7 @@ projects.
 
 ## [Lab 1](https://drive.google.com/drive/folders/1q8VXDRMllyv_mftctnOzwQD3028Uz0AZ)
 
-## [Lab2](https://drive.google.com/drive/folders/1NN3HHAIjzERHAs6-gdHe2veWfNsrwJ6K?usp=drive_link)
+## [Lab2 : Convolution and hybrid images](https://drive.google.com/drive/folders/1NN3HHAIjzERHAs6-gdHe2veWfNsrwJ6K?usp=drive_link)
 
 
 
