@@ -1,4 +1,4 @@
-# CSE 110: Programming Language I (3 credits)
+# CSE 110: Programming Language I 
 This course would be an introduction to the foundations of computation and purpose of mechanized computation. Emphasis will be placed on techniques of problem analysis and the development of algorithms and programs. Topics will include:
 1. Introduction to digital computers and programming algorithms and flow chart construction.
 2. Information representation in digital computers. Writing, debugging and running programs (including file handling) on various digital computers using an appropriate language.
