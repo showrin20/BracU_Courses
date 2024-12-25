@@ -1,9 +1,6 @@
 ## An Empirical Study of Federated Learning on IoT-Edge Devices
 
-This repository contains the Presentation Slides and a report related to the paper titled "DEVELOPING AN AGENT-BASED SIMULATION MODEL OF THE USE OF DIFFERENT
-COMMUNICATION TECHNOLOGIES IN INTER-ORGANIZATIONAL DISASTER
-RESPONSE COORDINATION
-" 
+This repository contains the Presentation Slides and a report related to the paper titled "An Empirical Study of Federated Learning on IoT-Edge Devices" 
 
 ## Presentation Slides
 
