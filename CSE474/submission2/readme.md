@@ -1,9 +1,6 @@
-## DEVELOPING AN AGENT-BASED SIMULATION MODEL OF THE USE OF DIFFERENT COMMUNICATION TECHNOLOGIES IN INTER-ORGANIZATIONAL DISASTER RESPONSE COORDINATION
+## An Empirical Study of Federated Learning on IoT-Edge Devices.
 
-This repository contains the Presentation Slides and a report related to the paper titled "DEVELOPING AN AGENT-BASED SIMULATION MODEL OF THE USE OF DIFFERENT
-COMMUNICATION TECHNOLOGIES IN INTER-ORGANIZATIONAL DISASTER
-RESPONSE COORDINATION
-" 
+This repository contains the Presentation Slides and a report related to the paper titled "An Empirical Study of Federated Learning on IoT-Edge Devices." 
 
 ## Presentation Slides
 
@@ -16,15 +13,13 @@ The public link to the report can be accessed [here](https://docs.google.com/doc
 Watch our presentation on YouTube: [Presentation Video](https://youtu.be/h6QAB2yXap8)
 ## Paper Link
 
-The paper associated with this work is available on IEEE Xplore: [DEVELOPING AN AGENT-BASED SIMULATION MODEL OF THE USE OF DIFFERENT
-COMMUNICATION TECHNOLOGIES IN INTER-ORGANIZATIONAL DISASTER
-RESPONSE COORDINATION](https://ieeexplore.ieee.org/document/8632257).
+The paper associated with this work is available: [An Empirical Study of Federated Learning on IoT-Edge Devices](https://arxiv.org/abs/2305.19831#).
 
 ## Group Number
 
-Group Number: 7
+Group Number: 
 
 ## Individual Submitter
 
 **Name:** Showrin Rahman  
-**Student ID:** 21301033
+**Student ID:** 24141255
