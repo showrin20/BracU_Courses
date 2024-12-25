@@ -10,7 +10,7 @@ The public link to the presentation slides can be accessed [here](https://docs.g
 The public link to the report can be accessed [here](https://docs.google.com/document/d/1srRIxlhPbHRYe4k6VsTG6JsGch93b39r2WzY4tbhT3E/edit?usp=sharing).
 ## YouTube Video
 
-Watch our presentation on YouTube: [Presentation Video](#)
+Watch our presentation on YouTube: [Presentation Video](https://youtu.be/D9ZYhaaHv3c)
 ## Paper Link
 
 The paper associated with this work is available: [An Empirical Study of Federated Learning on IoT-Edge Devices](https://arxiv.org/abs/2305.19831#).
