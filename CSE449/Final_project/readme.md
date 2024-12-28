@@ -1,4 +1,5 @@
-# Federated Learning with Transformer Models on Mobile Devices
+#  Federated Learning (Transformer models) on Mobile Devices Using JavaScript
+
 
 ## Project Overview
 This project explores the implementation of Federated Learning using Transformer models on mobile devices. The goal is to leverage the power of distributed learning while maintaining data privacy, making it suitable for applications that require sensitive data handling.
