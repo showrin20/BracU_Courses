@@ -18,7 +18,7 @@ The results of the EDA are summarized in the presentation [here](https://docs.go
 The code for this project is available in the repository. Please check the respective files and directories to explore the implementation details.
 
 ## Final Presentation
-You can view the final presentation summarizing the project objectives, methodologies, and results [here](https://docs.google.com/presentation/d/1UzVDS02cYhli7bLyVVJuP2joeKGh1SSunuqT4-eYg68/edit?usp=sharing).
+You can view the final presentation summarizing the project objectives, methodologies, and results [here](https://docs.google.com/presentation/d/1eCN3saXlbMvzfnMxub98rQFnHaBm-CGD/edit?usp=sharing&ouid=117980306697681282235&rtpof=true&sd=true).
 
 ## Final Report
 The final report is [here](#)
