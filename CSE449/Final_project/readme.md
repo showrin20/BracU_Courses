@@ -14,9 +14,6 @@ The EDA for this project is conducted using a dataset available on Kaggle. The a
 ### EDA Presentation
 The results of the EDA are summarized in the presentation [here](https://docs.google.com/presentation/d/1e43Hvgp6AYmG-GnqcCL6yP77EXaAABwAgjOxyXxcVAg/edit#slide=id.p).
 
-## Project Code
-The code for this project is available in the repository. Please check the respective files and directories to explore the implementation details.
-
 ## Final Presentation
 You can view the final presentation summarizing the project objectives, methodologies, and results [here](https://docs.google.com/presentation/d/1eCN3saXlbMvzfnMxub98rQFnHaBm-CGD/edit?usp=sharing&ouid=117980306697681282235&rtpof=true&sd=true).
 
