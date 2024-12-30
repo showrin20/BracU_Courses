@@ -18,6 +18,7 @@ projects.
 ## [Lab2 : Convolution and hybrid images](https://drive.google.com/drive/folders/1NN3HHAIjzERHAs6-gdHe2veWfNsrwJ6K?usp=drive_link)
 
 ## [Lab3](https://drive.google.com/drive/folders/1mSEdk_AjcihULvvC_et3hZQp9_DFky9S?usp=sharing)
+## [Lab 4](https://drive.google.com/drive/folders/1J_mFpoxCNXOypVscNf7bkUKUoRrR6dEO?usp=sharing)
 
 
 
