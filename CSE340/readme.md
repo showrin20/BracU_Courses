@@ -2,6 +2,13 @@
 
 ## Instructions: Language of the Computer
 
+
+
+# [Practice Sheet](https://drive.google.com/drive/folders/1Vwk38CAlTkYjeZOFPMOMysnywpjD5QEd?usp=sharing)
+
+
+
+
 ### Assembly Language 
 
 #### **Arithmetic Operations**
