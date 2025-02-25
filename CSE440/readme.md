@@ -93,3 +93,60 @@ counts = {'word1': 5, 'word2': 0, 'word3': 3}
 vocab_size = len(counts)
 smoothed_probs = laplace_smoothing(counts, vocab_size)
 print(smoothed_probs)
+```
+
+# Naive Bayes Classification: In-depth Intuition
+
+This repository provides comprehensive resources and insights into the Naive Bayes machine learning algorithm, focusing on its concepts, applications, and implementations. Naive Bayes is particularly renowned for its effectiveness in text classification tasks and its simplicity.
+
+## Overview
+
+Naive Bayes is a family of probabilistic classifiers based on Bayes' Theorem, assuming that the features used for classification are independent of each other given the class label. This "naive" assumption simplifies the computation of probabilities and allows for efficient classification.
+
+### Key Concepts
+
+- **Bayes' Theorem**: The foundation of Naive Bayes, which describes the probability of a class based on prior knowledge of conditions related to the class:
+  
+  \[
+  P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
+  \]
+
+  Where:
+  - \(P(A|B)\): Posterior probability of class A given feature B.
+  - \(P(B|A)\): Likelihood of feature B given class A.
+  - \(P(A)\): Prior probability of class A.
+  - \(P(B)\): Total probability of feature B.
+
+- **Types of Naive Bayes**:
+  - **Gaussian Naive Bayes**: Assumes that the features follow a normal (Gaussian) distribution.
+  - **Multinomial Naive Bayes**: Used for discrete features, particularly useful for text classification tasks where the features represent word counts.
+  - **Bernoulli Naive Bayes**: Similar to Multinomial, but assumes binary features (presence or absence of a feature).
+
+- **Applications**:
+  - **Spam Detection**: Classifying emails as spam or not spam.
+  - **Sentiment Analysis**: Determining the sentiment of product reviews or social media posts.
+  - **Document Classification**: Categorizing documents into predefined topics based on their content.
+
+## Video Tutorials
+
+For a comprehensive understanding of Naive Bayes, you might find the following videos helpful:
+
+1. **Naive Bayes Machine Learning Algorithm - In-depth Intuition**
+   [Watch here](https://youtu.be/7zpEuCTcdKk?si=u8IYCWYI47lwpi5M)
+
+2. **Naïve Bayes Classification Problem - Numerical Solved Example**
+   [Watch here](https://youtu.be/VIj6xS937E4?si=NlOyg7X1vifqMWuv) by Mahesh Huddar
+
+3. **Solved Example: Using Naive Bayes Classifier to Classify Color, Legs, Height, Smelly**
+   [Watch here](https://youtu.be/vum--8Slq_E?si=XcASlR4t9n3TWVuZ) by Mahesh Huddar
+
+4. **Solved Example: Naive Bayes Classifier to Classify New Instance**
+   [Watch here](https://youtu.be/QPvHY9t1Ouw?si=7veZ9kHmwaCEhCfb) by Mahesh Huddar
+
+5. **Naive Bayes Theorem: Solved Example**
+   [Watch here](https://youtu.be/yRl8Yq0M3TY?si=vLFBUS_B7mRO9dlD) by Mahesh Huddar
+
+6. **Text Classification: Spam Classification Using Naive Bayes Classifier (Add Smoothing)**
+   [Watch here](https://youtu.be/YcsDbCvRBxg?si=TGaBACHpz0zy2cMg) by Mahesh Huddar
+
+
