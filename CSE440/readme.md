@@ -4,4 +4,4 @@
 
 For a comprehensive understanding of Laplace smoothing, you might find the following video helpful:
 
-videoMastering Laplace Smoothing in Naive Bayes: Avoiding Overfittingturn0search0 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mmguq4BHVCc?si=0HuWklUCoud7rS4p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
