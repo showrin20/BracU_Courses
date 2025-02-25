@@ -97,11 +97,135 @@ print(smoothed_probs)
 
 # Naive Bayes Classification: In-depth Intuition
 
-This repository provides comprehensive resources and insights into the Naive Bayes machine learning algorithm, focusing on its concepts, applications, and implementations. Naive Bayes is particularly renowned for its effectiveness in text classification tasks and its simplicity.
-
-## Overview
-
 Naive Bayes is a family of probabilistic classifiers based on Bayes' Theorem, assuming that the features used for classification are independent of each other given the class label. This "naive" assumption simplifies the computation of probabilities and allows for efficient classification.
+
+1. **Gaussian Naive Bayes**: Used for continuous data assuming a normal distribution.
+2. **Multinomial Naive Bayes**: Suitable for discrete data (e.g., word counts for text classification).
+3. **Bernoulli Naive Bayes**: Used for binary/boolean features (presence/absence of features).
+
+Here's a complete code example showcasing all three types of Naive Bayes classifiers:
+
+```python
+import numpy as np
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.naive_bayes import GaussianNB, MultinomialNB, BernoulliNB
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+
+# Sample dataset for text classification
+data = {
+    'message': [
+        'Hey, how are you?',
+        'Win a $1000 cash prize now!',
+        'Hello, let’s meet for lunch tomorrow.',
+        'Congratulations! You have won a lottery.',
+        'Your appointment is confirmed.',
+        'Click this link to claim your prize!',
+        'See you at the party tonight.',
+        'Get paid to work from home!',
+        'This is a great deal!',
+        'Limited time offer just for you!',
+    ],
+    'label': [
+        'ham',
+        'spam',
+        'ham',
+        'spam',
+        'ham',
+        'spam',
+        'ham',
+        'spam',
+        'ham',
+        'spam',
+    ]
+}
+
+# Create a DataFrame
+df = pd.DataFrame(data)
+
+# Step 3: Preprocess the Data
+X = df['message']  # Features
+y = df['label']    # Labels
+
+# Split the dataset into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=42)
+
+# Step 4: Vectorization for Multinomial and Bernoulli Naive Bayes
+vectorizer = CountVectorizer(binary=False)  # Use binary=False for MultinomialNB
+X_train_vectorized = vectorizer.fit_transform(X_train)
+X_test_vectorized = vectorizer.transform(X_test)
+
+# Step 5: Multinomial Naive Bayes
+multinomial_model = MultinomialNB()
+multinomial_model.fit(X_train_vectorized, y_train)
+y_pred_multinomial = multinomial_model.predict(X_test_vectorized)
+
+# Step 6: Evaluate Multinomial Naive Bayes
+accuracy_multinomial = accuracy_score(y_test, y_pred_multinomial)
+conf_matrix_multinomial = confusion_matrix(y_test, y_pred_multinomial)
+class_report_multinomial = classification_report(y_test, y_pred_multinomial)
+
+print("Multinomial Naive Bayes Results:")
+print(f'Accuracy: {accuracy_multinomial}')
+print('Confusion Matrix:')
+print(conf_matrix_multinomial)
+print('Classification Report:')
+print(class_report_multinomial)
+
+# Step 7: Bernoulli Naive Bayes (for binary features)
+vectorizer_b = CountVectorizer(binary=True)  # Use binary=True for BernoulliNB
+X_train_vectorized_b = vectorizer_b.fit_transform(X_train)
+X_test_vectorized_b = vectorizer_b.transform(X_test)
+
+bernoulli_model = BernoulliNB()
+bernoulli_model.fit(X_train_vectorized_b, y_train)
+y_pred_bernoulli = bernoulli_model.predict(X_test_vectorized_b)
+
+# Step 8: Evaluate Bernoulli Naive Bayes
+accuracy_bernoulli = accuracy_score(y_test, y_pred_bernoulli)
+conf_matrix_bernoulli = confusion_matrix(y_test, y_pred_bernoulli)
+class_report_bernoulli = classification_report(y_test, y_pred_bernoulli)
+
+print("\nBernoulli Naive Bayes Results:")
+print(f'Accuracy: {accuracy_bernoulli}')
+print('Confusion Matrix:')
+print(conf_matrix_bernoulli)
+print('Classification Report:')
+print(class_report_bernoulli)
+
+# Step 9: Gaussian Naive Bayes (requires numerical data)
+# For demonstration, let's create a synthetic dataset with numerical features
+X_numeric = np.array([[1, 2], [1, 4], [1, 0],
+                      [2, 2], [2, 4], [2, 0],
+                      [0, 0], [0, 1], [0, 2],
+                      [3, 3], [3, 4], [3, 0]])
+y_numeric = np.array(['ham', 'ham', 'ham', 'spam', 'spam', 'spam', 
+                      'ham', 'ham', 'ham', 'spam', 'spam', 'spam'])
+
+# Split numeric dataset
+X_train_num, X_test_num, y_train_num, y_test_num = train_test_split(X_numeric, y_numeric, test_size=0.25, random_state=42)
+
+# Step 10: Gaussian Naive Bayes
+gaussian_model = GaussianNB()
+gaussian_model.fit(X_train_num, y_train_num)
+y_pred_gaussian = gaussian_model.predict(X_test_num)
+
+# Step 11: Evaluate Gaussian Naive Bayes
+accuracy_gaussian = accuracy_score(y_test_num, y_pred_gaussian)
+conf_matrix_gaussian = confusion_matrix(y_test_num, y_pred_gaussian)
+class_report_gaussian = classification_report(y_test_num, y_pred_gaussian)
+
+print("\nGaussian Naive Bayes Results:")
+print(f'Accuracy: {accuracy_gaussian}')
+print('Confusion Matrix:')
+print(conf_matrix_gaussian)
+print('Classification Report:')
+print(class_report_gaussian)
+```
+
+
+
 
 ### Key Concepts
 
