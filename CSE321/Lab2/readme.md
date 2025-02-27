@@ -176,3 +176,82 @@ int main() {
 }
 ```
 
+
+### **6. Convert Seconds to Hours, Minutes, and Seconds**
+**File:** `time_conversion.c`
+```c
+#include <stdio.h>
+int main() {
+    int seconds, h, m, s;
+    printf("Enter seconds: ");
+    scanf("%d", &seconds);
+    h = seconds / 3600;
+    m = (seconds % 3600) / 60;
+    s = seconds % 60;
+    printf("%d hours %d minutes %d seconds\n", h, m, s);
+    return 0;
+}
+```
+
+### **7. Swap Two Variables**
+**File:** `swap_variables.c`
+```c
+#include <stdio.h>
+int main() {
+    int a, b;
+    printf("Enter two numbers: ");
+    scanf("%d %d", &a, &b);
+    a = a + b; b = a - b; a = a - b;
+    printf("Swapped: a = %d, b = %d\n", a, b);
+    return 0;
+}
+```
+
+### **8. Print ASCII Value of a Character**
+**File:** `ascii_value.c`
+```c
+#include <stdio.h>
+int main() {
+    char c;
+    printf("Enter a character: ");
+    scanf(" %c", &c);
+    printf("ASCII Value: %d\n", c);
+    return 0;
+}
+```
+
+### **9. Concatenate Two Strings**
+**File:** `string_concat.c`
+```c
+#include <stdio.h>
+#include <string.h>
+int main() {
+    char str1[50], str2[50];
+    printf("Enter first string: ");
+    gets(str1);
+    printf("Enter second string: ");
+    gets(str2);
+    strcat(str1, str2);
+    printf("Concatenated String: %s\n", str1);
+    return 0;
+}
+```
+
+### **10. Store and Print Student Information using Struct**
+**File:** `student_struct.c`
+```c
+#include <stdio.h>
+struct Student {
+    char name[50];
+    int age;
+    float gpa;
+};
+int main() {
+    struct Student s;
+    printf("Enter name: "); gets(s.name);
+    printf("Enter age: "); scanf("%d", &s.age);
+    printf("Enter GPA: "); scanf("%f", &s.gpa);
+    printf("Name: %s, Age: %d, GPA: %.2f\n", s.name, s.age, s.gpa);
+    return 0;
+}
+```
