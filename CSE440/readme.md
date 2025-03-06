@@ -7,3 +7,4 @@
 ## [colab file](https://colab.research.google.com/drive/1fW63JYFASCfJdyMRRYNVioseLSLtTMWG#scrollTo=f9a00733)
 
 ## [Question Link](https://docs.google.com/document/d/1GX03WflMn5AcTeMFa_CjTDZ6gbDmiGsc/edit?usp=sharing&ouid=103430974548220325352&rtpof=true&sd=true)
+## [Solution](https://colab.research.google.com/drive/1WR0zJ0y19Gb2ycxpa7EDkaT_fMPXF_27?usp=sharing)
