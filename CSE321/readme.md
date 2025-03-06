@@ -129,4 +129,7 @@ int main() {
  
 # Threading
 
-![Python Threading](https://www.youtube.com/watch?v=A_Z1lgZLSNc)
+### [Python Threading](https://www.youtube.com/watch?v=A_Z1lgZLSNc)
+
+### [Python Threading](https://www.youtube.com/watch?v=A_Z1lgZLSNc)
+
