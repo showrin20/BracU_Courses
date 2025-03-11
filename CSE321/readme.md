@@ -182,13 +182,13 @@ int main() {
 
 Example:
 | Process | Arrival Time | Burst Time | Completion Time | Turnaround Time | Waiting Time |
-||--||-|--|--|
+|---------|--------------|------------|----------------|-----------------|--------------|
 | P1      | 0            | 8          | 8              | 8               | 0            |
 | P2      | 1            | 4          | 12             | 11              | 7            |
 | P3      | 2            | 9          | 21             | 19              | 10           |
 | P4      | 3            | 5          | 26             | 23              | 18           |
 
-
+---
 
 ### 3.2 Shortest Job First (SJF)
 - **Shortest process gets executed first.**
@@ -197,7 +197,7 @@ Example:
   - **Preemptive (SRTF - Shortest Remaining Time First)**: New shorter processes can preempt running ones.
 - **Optimal for waiting time** but requires **predicting burst time.**
 
-
+---
 
 ### 3.3 Priority Scheduling
 - **Each process has a priority.**
@@ -208,7 +208,7 @@ Example:
 - **Issue:** Starvation (low-priority processes may never execute).
 - **Solution:** Aging (increase priority over time).
 
-
+---
 
 ### 3.4 Round Robin (RR)
 - **Each process gets a fixed time quantum (q)** (e.g., 10–100ms).
@@ -221,7 +221,7 @@ P1 | P2 | P3 | P4 | P1 | P3 | P4 | P3
 0   4    8   12   16   20   24   25   26
 ```
 
-
+---
 
 ### 3.5 Multilevel Queue Scheduling
 - **Processes are categorized into separate queues (e.g., foreground, background).**
@@ -232,7 +232,7 @@ P1 | P2 | P3 | P4 | P1 | P3 | P4 | P3
   - **Fixed priority**: Foreground gets full priority over background.
   - **Time-slice**: Each queue gets a fixed CPU percentage.
 
-
+---
 
 ### 3.6 Multilevel Feedback Queue Scheduling
 - **Processes move between queues based on behavior.**
@@ -244,12 +244,12 @@ P1 | P2 | P3 | P4 | P1 | P3 | P4 | P3
   2. **Queue 1** (Priority 1, **RR q=16**)
   3. **Queue 2** (Priority 2, **FCFS**)
 
-
+---
 
 ## 4. Comparison of Scheduling Algorithms
 
 | Algorithm            | Preemptive | Starvation? | Turnaround Time | Waiting Time | Response Time | Fairness |
-|-|--|-|-|--|--|--|
+|----------------------|-----------|-------------|----------------|--------------|--------------|-----------|
 | **FCFS**            | No        | No          | High           | High         | High         | Low       |
 | **SJF**             | Optional  | Yes         | Low            | Low          | Medium       | Low       |
 | **Priority**        | Optional  | Yes         | Medium         | Medium       | Medium       | Low       |
@@ -257,7 +257,7 @@ P1 | P2 | P3 | P4 | P1 | P3 | P4 | P3
 | **Multilevel Queue**| Yes       | Yes         | Medium         | Medium       | Medium       | Low       |
 | **Multilevel FBQ**  | Yes       | No          | Low            | Low          | Low          | High      |
 
-
+---
 
 
 - **FCFS**: Simple but inefficient due to **convoy effect**.
@@ -266,4 +266,6 @@ P1 | P2 | P3 | P4 | P1 | P3 | P4 | P3
 - **Round Robin**: **Good for time-sharing** but **high context switching overhead**.
 - **Multilevel Queue**: Separates process types but **fixed priority can cause starvation**.
 - **Multilevel Feedback Queue**: **Most flexible**, but **complex to implement**.
+
+---
 
