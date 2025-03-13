@@ -8,3 +8,11 @@
 
 ## [Question Link](https://docs.google.com/document/d/1GX03WflMn5AcTeMFa_CjTDZ6gbDmiGsc/edit?usp=sharing&ouid=103430974548220325352&rtpof=true&sd=true)
 ## [Solution](https://colab.research.google.com/drive/1WR0zJ0y19Gb2ycxpa7EDkaT_fMPXF_27?usp=sharing)
+
+
+# Lab Assignment 2
+## [colab file]()
+
+## [Question Link](https://docs.google.com/document/d/1vDRm4WophXI3HeV4NP4bjZmqn0_MSSZ2/edit?usp=sharing&ouid=117980306697681282235&rtpof=true&sd=true)
+## [Solution](https://colab.research.google.com/drive/19vE_5y0Xiwh-ZnaqEVZ2AWcHYGZGaK39?usp=sharing)
+
