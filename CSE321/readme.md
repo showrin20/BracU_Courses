@@ -5,7 +5,7 @@ This course provides a general understanding of the principles and concepts gove
 # [Lab](https://drive.google.com/drive/folders/15jnsGJg7MzduETba6kqlpbKTwfMwyda5)
 # [Resources](https://drive.google.com/drive/folders/1gCcrq_xkHRbx9HU8-1Cwa2NOi7JqocKX)
 
-#[Assignment1](https://drive.google.com/drive/folders/10_xQHLade6T-io3eVNH6XnS7hGzsbr6D?usp=sharing)
+# [Assignment1](https://drive.google.com/drive/folders/10_xQHLade6T-io3eVNH6XnS7hGzsbr6D?usp=sharing)
 # Testing System Calls on Linux
 
 This project demonstrates various **system calls** available on Linux, including **process control, file operations, inter-process communication (IPC), shared memory, and file permissions**.
