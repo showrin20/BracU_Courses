@@ -18,5 +18,9 @@
 
 
 
+# Lab Assignment 3
+## [colab file]()
 
+## [Question Link](https://docs.google.com/document/d/1-fVmbB6PRjtyjd7NLNffJFNp3sqYYKoSotHGlWBlaBw/edit?tab=t.0#heading=h.gjdgxs)
+## [Solution](https://colab.research.google.com/drive/1Gl7sZylEdd26ptBIaNBVFBEhJ8KVmXHR?usp=sharing)
 
