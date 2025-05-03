@@ -1,20 +1,5 @@
 # Linux Shell Commands Practice Guide
 
-System and User Information
-Accessing Command Manuals
-Creating Files
-File Operations
-Directory and File Listings
-File and Directory Permissions
-Mathematical Operations
-Redirection
-Calendar
-File Viewing
-Piping
-Pattern Searching with grep
-Finding Files with find
-Creating Links
-
 
 System and User Information
 Commands:
@@ -243,8 +228,8 @@ cal feb 2001
 File Viewing
 Commands:
 
-head: Displays the first 10 lines of a patient.
-tail: Displays the last 10 lines of a patient.
+head: Displays the first 10 lines of a file.
+tail: Displays the last 10 lines of a file.
 sort: Sorts lines of text files.
 wc: Counts lines, words, and bytes.
 
@@ -350,7 +335,6 @@ ls -l
 ln -s test.txt test_symlink.txt
 ls -l
 # Output: test_symlink.txt -> test.txt
-
 
 
 
