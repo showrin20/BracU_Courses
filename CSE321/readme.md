@@ -5,6 +5,8 @@ This course provides a general understanding of the principles and concepts gove
 # [Lab](https://drive.google.com/drive/folders/15jnsGJg7MzduETba6kqlpbKTwfMwyda5)
 # [Resources](https://drive.google.com/drive/folders/1gCcrq_xkHRbx9HU8-1Cwa2NOi7JqocKX)
 
+Lab_final : https://grok.com/share/c2hhcmQtMg%3D%3D_31d98d15-4116-473b-bf74-03768cc7e53e
+
 # [Assignment1]()
 # Testing System Calls on Linux
 
