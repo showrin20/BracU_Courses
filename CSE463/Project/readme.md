@@ -1,3 +1,12 @@
+
+
+# TextDiffuser-RL: Efficient and Robust Text Layout Optimization for High-Fidelity Text-to-Image Synthesis
+[Link of paper](https://arxiv.org/abs/2505.19291)
+
+
+
+
+
 ![imag](img.png)
 
 #### **1. Generate Image with Text**
