@@ -7,14 +7,5 @@ The public link to the presentation slides can be accessed [here](https://docs.g
 
 Watch our presentation on YouTube: [Presentation Video](https://youtu.be/egIcjx9BE8Q?si=30WqFmEd_ZL_EoW0)
 
+# [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031025)
 
-
-## Group Number
-
-Group Number: 7
-
-24141153	Abrar Sami Khan	<br>
-23241085	Omor Bin Amjad Chowdhury	<br>
-21141058	Mohammad Omor Raihan	<br>
-24141255	Showrin Rahman	<br>
-24341284	Sowad Rahman 
