@@ -25,11 +25,3 @@
 ## [Solution](https://colab.research.google.com/drive/1Gl7sZylEdd26ptBIaNBVFBEhJ8KVmXHR?usp=sharing)
 
 
-# Project 
-## [colab file]()
-
-## [Question Link](https://docs.google.com/document/d/12I4d-Ui8FYCrbLEv37PvlStSn6gfwPEcVVDrqpJrtWA/edit?tab=t.0#heading=h.gjdgxs)
-## [Latex Report](https://www.overleaf.com/read/zhnfddqqsngf#8606d1) 
-
-## [colab](https://colab.research.google.com/drive/1fIUTzLuwU2XJgO3U6QnpNHzw15DTnqWx?usp=sharing)
-
