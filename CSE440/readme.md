@@ -26,7 +26,6 @@
 
 
 # Project 
-## [colab file]()
 
 ## [Question Link](https://docs.google.com/document/d/12I4d-Ui8FYCrbLEv37PvlStSn6gfwPEcVVDrqpJrtWA/edit?tab=t.0#heading=h.gjdgxs)
 ## [Latex Report](https://www.overleaf.com/read/zhnfddqqsngf#8606d1) 
