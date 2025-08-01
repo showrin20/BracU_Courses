@@ -1,7 +1,7 @@
 # 🎓 BracU Courses - Computer Science & Engineering
 
 [![University](https://img.shields.io/badge/University-BRAC%20University-blue)](https://www.bracu.ac.bd/)
-[![Department](https://img.shields.io/badge/Department-Computer%20Science%20%26%20-green)](https://cse.bracu.ac.bd/)
+[![Department](https://img.shields.io/badge/Department-Computer%20Science%20%%20-green)](https://cse.bracu.ac.bd/)
 [![Academic](https://img.shields.io/badge/Type-Academic%20Repository-orange)](https://github.com/showrin20/BracU_Courses)
 
 This repository contains comprehensive course materials, assignments, lab works, and projects from my Computer Science & Engineering studies at **BRAC University (BracU)**. It serves as a complete academic portfolio showcasing programming assignments, data structures implementation, software engineering projects, and various other coursework.
