@@ -1,4 +1,6 @@
-# 🎓 [BracU Courses - Computer Science & Engineering](https://drive.google.com/drive/folders/1zDsEZnaQHVjqif7FVMMS9Z6a8M__lfdK?usp=sharing)
+# 🎓 BracU Courses - Computer Science & Engineering
+
+# [BracU](https://drive.google.com/drive/folders/1zDsEZnaQHVjqif7FVMMS9Z6a8M__lfdK?usp=sharing)
 
 [![University](https://img.shields.io/badge/University-BRAC%20University-blue)](https://www.bracu.ac.bd/)
 [![Department](https://img.shields.io/badge/Department-Computer%20Science-green)](https://cse.bracu.ac.bd/)
